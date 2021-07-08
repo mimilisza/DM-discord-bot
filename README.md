@@ -1,5 +1,7 @@
 # DM-discord-bot
-A simple bot that sends an embed in DMs of those who are participants of a server.
+A simple bot that sends an embed in DMs of those who are participants of a server. 
+
+Invite it into your server now! -> https://discord.com/api/oauth2/authorize?client_id=855341424573022218&permissions=248896&scope=bot
 
 
 
